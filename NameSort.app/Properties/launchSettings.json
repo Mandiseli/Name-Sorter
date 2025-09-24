@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NameSort.App": {
+      "commandName": "Project",
+      "commandLineArgs": "unsorted-names-list.txt",
+      "workingDirectory": "C:\\Users\\lenovo\\source\\repos\\NameSort\\NameSort.App\\"
+    }
+  }
+}

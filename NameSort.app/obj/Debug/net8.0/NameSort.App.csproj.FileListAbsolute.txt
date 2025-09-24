@@ -1,0 +1,14 @@
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\bin\Debug\net8.0\NameSort.App.exe
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\bin\Debug\net8.0\NameSort.App.deps.json
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\bin\Debug\net8.0\NameSort.App.runtimeconfig.json
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\bin\Debug\net8.0\NameSort.App.dll
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\bin\Debug\net8.0\NameSort.App.pdb
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\NameSort.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\NameSort.App.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\NameSort.App.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\NameSort.App.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\NameSort.App.dll
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\refint\NameSort.App.dll
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\NameSort.App.pdb
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\NameSort.App.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\NameSort\NameSort.App\obj\Debug\net8.0\ref\NameSort.App.dll
